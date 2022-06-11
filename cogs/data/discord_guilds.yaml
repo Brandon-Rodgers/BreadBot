@@ -1,0 +1,28 @@
+guilds:
+  legion:
+    channel: 878440364380418069
+    role: 878441590543253524
+  legion unsullied:
+    channel: 898545942976954478
+    role: 898484172480454677
+  legion of alpacas:
+    channel: 878443257477087242
+    role: 878463849098002512
+  legion of anarchy:
+    channel: 878443456182243388
+    role: 878466501533909054
+  legion revenant:
+    channel: 878443485114548274
+    role: 878479322355212359
+  legionaires:
+    channel: 954946263005155408
+    role: 879294995645992990
+  legion of titans:
+    channel: 973828669292314664
+    role: 973898416549687336
+  legion of horizons:
+    channel: 973828743032340520
+    role: 973898952992768011
+  antilegion:
+    channel: 973828012191678505
+    role: 973899169024606208

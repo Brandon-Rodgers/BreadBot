@@ -1,0 +1,27 @@
+[<Role id=878439779220455554 name='@everyone'>, 
+<Role id=913537152137195533 name='Bread Bot'>, 
+<Role id=913117614161674240 name='new role'>, 
+<Role id=903719053422653500 name='Goonie Tunes'>, 
+<Role id=903719048322359306 name='new role'>, 
+<Role id=883735578078744626 name='Channel Maker'>, 
+<Role id=878484466748751883 name='MEE6'>, 
+<Role id=878464097144946699 name='Unknown'>, 
+<Role id=879294995645992990 name='Legion Phoenix'>, 
+<Role id=878479322355212359 name='Legion Revenant'>, 
+<Role id=878466501533909054 name='LegionofAnarchy'>, 
+<Role id=878463849098002512 name='LegionOfAlpacas'>, 
+<Role id=898484172480454677 name='Legion Unsullied'>, 
+<Role id=878441590543253524 name='Legion'>, 
+<Role id=881525134597435394 name='Server Booster'>, 
+<Role id=878452608946290728 name='Guild Leader'>, 
+<Role id=892954246499164171 name='Special Guest'>, 
+<Role id=878441910497333328 name='Moderator'>, 
+<Role id=878485075052867584 name='BOT'>, 
+<Role id=878441211281698866 name='God Emperor'>]
+
+
+Herc- shatter, second wind, physical resist
+Sam- crit, 3x Omni
+Grey- vamp, 3x Omni
+Mary- shatter, giant slayer, power
+Remus- shatter, 2x physical resist

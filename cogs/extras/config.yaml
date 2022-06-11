@@ -1,0 +1,31 @@
+roles:
+  mods:
+    - mod
+    - Mod
+    - moderator
+    - Moderator
+  admins:
+    - admin
+    - Admin
+    - Administrator
+    - administrator
+  leaders:
+    - leader
+    - Guild Leader
+  members:
+    - member
+    - Member
+  muted:
+    - mute
+    - muted
+    - Muted
+    - Mute
+users:
+  - 230571781490999296
+  - 210438411213864970
+special:
+  - 382982331184578561
+  - 230571781490999296
+  - 282103815820410880
+bread:
+  - 230571781490999296
