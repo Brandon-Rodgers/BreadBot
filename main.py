@@ -7,7 +7,9 @@ from discord.ext.commands import has_permissions
 import yaml
 sys.path.append('/home/BreadLoaf/breadbot/cogs/')
 import cogs.extras.checks as check
-
+from dotenv import load_dotenv
+project_folder = os.path.expanduser('~/breadbot')
+load_dotenv(os.path.join(project_folder, '.env'))
 #raise Exception
 
 intents = discord.Intents.default()
@@ -55,4 +57,4 @@ for filename in os.listdir('/home/BreadLoaf/breadbot/cogs'):
 
 #start_webhost()
 #client.run(os.environ['token'])
-client.run("OTExMjc0MDY5NTAzMTQ4MDQz.YZfAHA.cbd8MGJkc_Q6aDTDeFBpmbgFnW0")
+client.run(os.getenv("TOKEN"))
